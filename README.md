@@ -12,7 +12,7 @@
 	
 - 💬 Ask me about anything!
 	
-- 📫 How to reach me: **ezgisubasi1998@gmail.com** 
+- 📫 How to reach me: *ezgisubasi1998@gmail.com*
 	
 </center> 
 
@@ -20,13 +20,9 @@
 
 <p align="center">
 <a href="https://twitter.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="ezgisubasi" width="40px" /></a>
-
 <a href="https://www.linkedin.com/in/ezgisubasi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ezgisubasi" width="40px" /></a>
-	
 <a href="https://instagram.com/ezgi.codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="ezgisubasi" width="40px" /></a>
 </p>
-
-<br />
 
 <p align="center">
 	<a href="https://github.com/ezgisubasi">
