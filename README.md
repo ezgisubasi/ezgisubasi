@@ -24,6 +24,8 @@
 <a href="https://twitter.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="ezgisubasi" width="35px" /></a>
 </p>
 
+<br />
+
 <p align="center">
 	<a href="https://github.com/ezgisubasi">
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ezgisubasi&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ezgisubasi"/>
