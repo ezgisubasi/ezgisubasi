@@ -16,6 +16,8 @@
 	
 </center> 
 
+<br />
+
 ### Connect with me:
 
 <p align="left">
