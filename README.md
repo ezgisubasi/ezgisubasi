@@ -13,9 +13,10 @@
 	
 - 💬 Ask me about anything!
 	
-- 📫 How to reach me: ezgisubasi1998@gmail.com 
+- 📫 How to reach me: **ezgisubasi1998@gmail.com** 
 
 </center> 
+
 
 <p align="center">
 	<a href="https://github.com/ezgisubasi">
