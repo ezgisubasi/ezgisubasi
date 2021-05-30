@@ -19,13 +19,12 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://twitter.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="ezgisubasi" width="22px" /></a>
+<a href="https://twitter.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="ezgisubasi" width="40px" /></a>
 
+<a href="https://www.linkedin.com/in/ezgisubasi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ezgisubasi" width="40px" /></a>
+	
+<a href="https://instagram.com/ezgi.codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="ezgisubasi" width="40px" /></a>
 </p>
-
-<img  align="left" alt="ezgisubasi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="ezgisubasi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="ezgisubasi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
