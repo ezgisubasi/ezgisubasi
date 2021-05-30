@@ -18,9 +18,9 @@
 </center> 
 
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/ezgisubasi">
-		  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=ezgisubasi&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ezgisubasi"/>
-		  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgisubasi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ezgisubasi"/>
+		  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=ezgisubasi&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ezgisubasi"/>
+		  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgisubasi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ezgisubasi"/>
 	</a>
 </p>
