@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Engineering Student, Machine Learning Enthusiast</h3>
 
-<img src="https://komarev.com/ghpvc/?username=ezgisubasi&color=green alt="ezgisubasi" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgisubasi" color="green" alt="ezgisubasi" /> </p>
 
 
 <center> 
