@@ -11,7 +11,7 @@
 	
 - 💬 Ask me about anything!
 	
-- 📫 How to reach me: instagram: **@ezgi.codes**
+- 📫 How to reach me: ezgisubasi1998@gmail.com 
 
 </center> 
 
