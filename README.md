@@ -14,14 +14,16 @@
 - 💬 Ask me about anything!
 	
 - 📫 How to reach me: **ezgisubasi1998@gmail.com** 
-
-	
-	
-	
-	
 	
 </center> 
 
+### Connect with me:
+
+[<img align="left" alt="ezgisubasi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ezgisubasi]
+[<img align="left" alt="ezgisubasi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ezgisubasi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 <p align="center">
 	<a href="https://github.com/ezgisubasi">
