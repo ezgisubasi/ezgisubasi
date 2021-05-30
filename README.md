@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **RASA Chatbot**
 	
-- 🌱 I’m interested in **Machine Learning, Data Science and NLP** 
+- 🌱 I’m interested in **Machine Learning, Data Science, NLP and Computer Vision!** 
 	
 - 💬 Ask me about anything!
 	
