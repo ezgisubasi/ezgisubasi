@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm Ezgi 👋</h1>
 
-<h3 align="center">Computer Engineering Student, Machine Learning Enthusiast</h3>
+<h2 align="center">Computer Engineering Student, Machine Learning Enthusiast</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgisubasi&color=blueviolet" alt="ezgisubasi" /> </p>
+
+<br />
 
 <center> 
 
