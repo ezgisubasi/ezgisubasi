@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ezgi 👋:rainbow_flag:</h1>
+<h1 align="center">Hi there, I'm Ezgi 👋 :rainbow_flag:</h1>
 
 <h2 align="center">Computer Engineering Student, Machine Learning Enthusiast, Yoga and Plant-Based Life Style :lotus_position_woman::seedling:</h2>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Breast Cancer Gene Expression** :)
 	
-- 🌱 I’m interested in **Machine Learning, Data Science, NLP and Computer Vision!** 
+- 🌱 I’m interested in **Machine Learning, Data Science, NLP, Chatbot and Computer Vision!** 
 	
 - 💬 Ask me about anything!
 	
