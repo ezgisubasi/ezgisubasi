@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ezgi 👋</h1>
+<h1 align="center">Hi there, I'm Ezgi 👋:rainbow_flag:</h1>
 
-<h2 align="center">Computer Engineering Student, Machine Learning Enthusiast</h2>
+<h2 align="center">Computer Engineering Student, Machine Learning Enthusiast, Yoga and Plant-Based Life Style :lotus_position_woman::seedling:</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgisubasi&color=blueviolet" alt="ezgisubasi" /> </p>
 
@@ -8,7 +8,7 @@
 
 <center> 
 
-- 🔭 I’m currently working on **RASA Chatbot**
+- 🔭 I’m currently working on **Breast Cancer Gene Expression** :)
 	
 - 🌱 I’m interested in **Machine Learning, Data Science, NLP and Computer Vision!** 
 	
