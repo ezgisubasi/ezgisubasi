@@ -9,7 +9,7 @@
 
 <center> 
 
-- 🔭 I’m currently working on **NLP Sentiment Analysis w/ Turkish dataset** :)
+- 🔭 I’m currently working on **Some Computer Vision included Things(?)** :)
 	
 - 🌱 I’m interested in **Machine Learning, Data Science, NLP, Chatbot and Computer Vision!** 
 	
