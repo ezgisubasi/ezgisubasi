@@ -7,7 +7,7 @@
 
 <center> 
 
-- 🔭 I’m currently working on **Some Computer Vision included Stuffs(?)** :)
+- 🔭 I’m currently working on **:)** 
 	
 - 🌱 I’m interested in **Machine Learning, Data Science, NLP, Chatbot and Computer Vision!** 
 	
@@ -25,7 +25,6 @@
 <a href="https://kaggle.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="ezgisubasi" width="35px" /></a>
 <a href="https://www.linkedin.com/in/ezgisubasi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ezgisubasi" width="35px" /></a>
 <a href="https://twitter.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="ezgisubasi" width="35px" /></a>
-<a href="https://instagram.com/ezgiverse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="ezgisubasi" width="35px" /></a>
 </p>
 
 <br />
