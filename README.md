@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there, I'm Ezgi! 🍄🌻🌳🌞🌊 </h1>
 
 <h2 align="center"> Computer/Software Engineer, Machine Learning Enthusiast </h2> 
-<h2 align="center"> Yoga & Plant-Based Life Style :lotus_position_woman::seedling: </h2>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgisubasi&color=blueviolet" alt="ezgisubasi" /> </p>
 
 <br />
