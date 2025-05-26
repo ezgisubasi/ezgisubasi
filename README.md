@@ -22,18 +22,9 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://kaggle.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="ezgisubasi" width="35px" /></a>
 <a href="https://www.linkedin.com/in/ezgisubasi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ezgisubasi" width="35px" /></a>
 <a href="https://twitter.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="ezgisubasi" width="35px" /></a>
+<a href="https://kaggle.com/ezgisubasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="ezgisubasi" width="35px" /></a>
 </p>
 
 <br />
-
-### Some stats stuff: 
-
-<p align="center">
-	<a href="https://github.com/ezgisubasi">
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ezgisubasi&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ezgisubasi"/>
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgisubasi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ezgisubasi"/>
-	</a>
-</p>
