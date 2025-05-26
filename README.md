@@ -7,7 +7,7 @@
 
 <center> 
 
-- 🔭 I’m currently working on **:)** 
+- 🔭 I’m currently working on LLMs! **:)** 
 	
 - 🌱 I’m interested in **Machine Learning, Data Science, NLP, Chatbot and Computer Vision!** 
 	
