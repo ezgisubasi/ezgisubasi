@@ -17,8 +17,8 @@
 
 ### 🛠️ Recent Projects
 - [🎥 YouTube-RAG Assistant](https://github.com/ezgisubasi/youtube-rag-assistant): Multilingual, conversational AI assistant powered by Gemini + LangChain + ElevenLabs  
-- [🧬 Turkish Sentiment Analysis](https://github.com/ezgisubasi/turkish-sentiment-analysis): A deep learning approach for classifying Turkish tweets  
-- [🧠 Breast Cancer Prediction via Gene Expression](https://github.com/ezgisubasi/breast-cancer-gene-prediction): Machine learning on gene expression data
+- [🧠 Turkish Sentiment Analysis](https://github.com/ezgisubasi/turkish-sentiment-analysis): A deep learning approach for classifying Turkish tweets  
+- [🧬 Breast Cancer Prediction via Gene Expression](https://github.com/ezgisubasi/breast-cancer-gene-prediction): Machine learning on gene expression data
 
 ### 📫 Let's connect!
 You can reach me anytime at **ezgisubasi1998@gmail.com** or through the platforms below:
