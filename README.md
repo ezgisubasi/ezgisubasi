@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Ezgi! 🍄🌻🌳🌞🌊 </h1>
 
-<h2 align="center"> Computer Engineer | Data Scientist | NLP & LLM Enthusiast </h2> 
+<h2 align="center"> Machine Learning Engineer| NLP & LLM Enthusiast </h2> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ezgisubasi&color=blueviolet" alt="ezgisubasi" />
@@ -11,9 +11,9 @@
 🌍 Welcome to my GitHub! I'm a machine learning engineer passionate about **Large Language Models (LLMs)**, **multimodal AI**, and **ML applications**.
 
 ### 🔬 Current Focus
-☁️ Learning cloud services and MLOps practices to deploy robust ML solutions
-💡 Building projects with LangChain, RAG pipelines, and Qdrant
-📊 Deepening skills in Data Science, NLP, and scalable ML pipelines
+- ☁️ Learning cloud services and MLOps practices to deploy robust ML solutions
+- 💡 Building projects with LangChain, RAG pipelines, and Qdrant
+- 📊 Deepening skills in Data Science, NLP, and scalable ML pipelines
 
 ### 🛠️ Recent Projects
 - [🎥 YouTube-RAG Assistant](https://github.com/ezgisubasi/youtube-rag-assistant): Multilingual, conversational AI assistant powered by Gemini + LangChain + ElevenLabs  
