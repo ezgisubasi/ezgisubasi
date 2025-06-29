@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Ezgi! 🍄🌻🌳🌞🌊 </h1>
 
-<h2 align="center"> Machine Learning Engineer| NLP & LLM Enthusiast </h2> 
+<h2 align="center"> Machine Learning Engineer | NLP & LLM Enthusiast </h2> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ezgisubasi&color=blueviolet" alt="ezgisubasi" />
