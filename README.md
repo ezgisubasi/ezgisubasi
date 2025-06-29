@@ -8,12 +8,12 @@
 
 ---
 
-🌍 Welcome to my GitHub! I'm a computer engineer passionate about **language models**, **semantic search**, and **creative AI applications**.
+🌍 Welcome to my GitHub! I'm a machine learning engineer passionate about **Large Language Models (LLMs)**, **multimodal AI**, and **ML applications**.
 
 ### 🔬 Current Focus
-- 🚀 Exploring **Large Language Models (LLMs)** and **multimodal AI**
-- 💡 Building projects with **LangChain, RAG pipelines**, and **Qdrant**
-- 📊 Diving deeper into **Data Science**, **NLP**, and **MLOps**
+☁️ Learning cloud services and MLOps practices to deploy robust ML solutions
+💡 Building projects with LangChain, RAG pipelines, and Qdrant
+📊 Deepening skills in Data Science, NLP, and scalable ML pipelines
 
 ### 🛠️ Recent Projects
 - [🎥 YouTube-RAG Assistant](https://github.com/ezgisubasi/youtube-rag-assistant): Multilingual, conversational AI assistant powered by Gemini + LangChain + ElevenLabs  
