@@ -21,7 +21,7 @@
 - [🧬 Breast Cancer Prediction via Gene Expression](https://github.com/ezgisubasi/breast-cancer-gene-prediction): Machine learning on gene expression data
 
 ### 📫 Let's connect!
-You can reach me anytime at **ezgisubasi1998@gmail.com** or through the platforms below:
+You can reach me anytime through the platforms below:
 
 <a href="https://twitter.com/ezgisubasi" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
